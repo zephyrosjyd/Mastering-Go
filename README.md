@@ -1,4 +1,5 @@
 # My exercises
+Moved to [Mastering-Go-Second-Edition](https://github.com/zephyrosjyd/Mastering-Go-Second-Edition)
 
 =====================
 
